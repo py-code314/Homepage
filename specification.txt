@@ -1,0 +1,32 @@
+HTML tags:
+-meta
+-title
+-link
+-div
+-h1
+-nav
+-button
+-span
+-ul
+-li
+-a
+-form
+-input
+-img
+-p
+
+CSS properties:
+-display
+-align-items
+-justify-contents
+-background-color
+-text-decoration
+-float
+-width
+-height
+-margin
+-border-radius
+-padding
+
+1. Used Bootstrap 5 for most of the page design and used my own CSS stylesheet to customize at a few places.
+2. Used Javascript to show a Date and Time ticker, also to alert the user and change the input field.
